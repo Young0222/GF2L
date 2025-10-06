@@ -22,18 +22,11 @@ How to Run
 -----------
 We provide scripts for running GF2L on different learning tasks:
 
-1. Unsupervised Learning:
+1. Unsupervised Learning: bash run_us_gf2l.sh
 
-    bash run_us_gf2l.sh
+2. Transfer Learning: bash run_ts_gf2l.sh
 
-2. Transfer Learning:
-
-    bash run_ts_gf2l.sh
-
-3. Semi-Supervised Learning:
-
-    cd semi_supervised
-    bash run_ss_gf2l.sh
+3. Semi-Supervised Learning: cd semi_supervised; bash run_ss_gf2l.sh
 
 Log Files
 ----------
