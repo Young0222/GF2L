@@ -6,9 +6,7 @@ Graph Frequency Filtering Learning (GF2L)
 
 This repository contains the implementation of GF2L (Graph Frequency Filtering Learning), as proposed in our paper:
 
-    Beyond Contrast and Generation: Graph Frequency Filtering Learning for Self-Supervised Graph Neural Networks
-    [Anonymous authors]
-    Submitted to WWW 2026
+Beyond Contrast and Generation: Graph Frequency Filtering Learning for Self-Supervised Graph Neural Networks [Anonymous authors] Submitted to WWW 2026
 
 Method Overview
 ----------------
@@ -25,12 +23,15 @@ How to Run
 We provide scripts for running GF2L on different learning tasks:
 
 1. Unsupervised Learning:
+   
     bash run_us_gf2l.sh
 
 2. Transfer Learning:
+   
     bash run_ts_gf2l.sh
 
 3. Semi-Supervised Learning:
+   
     cd semi_supervised
     bash run_ss_gf2l.sh
 
