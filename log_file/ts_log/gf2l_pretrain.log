@@ -1,0 +1,23 @@
+INFO:root:Using Device: cuda:6
+INFO:root:Seed: 2024
+INFO:root:Namespace(batch_size=1024, dataset='zinc_standard_agent', drop_ratio=0.0, emb_dim=300, epochs=11, mlp_edge_model_dim=64, model_lr=1e-05, num_gc_layers=3, pooling_type='layerwise', seed=2024)
+INFO:root:====epoch 1
+INFO:root:Epoch 1, Model Loss 50986.4813
+INFO:root:====epoch 2
+INFO:root:Epoch 2, Model Loss 28776.3777
+INFO:root:====epoch 3
+INFO:root:Epoch 3, Model Loss 16684.4220
+INFO:root:====epoch 4
+INFO:root:Epoch 4, Model Loss 10688.0738
+INFO:root:====epoch 5
+INFO:root:Epoch 5, Model Loss 8285.4261
+INFO:root:====epoch 6
+INFO:root:Epoch 6, Model Loss 7464.3939
+INFO:root:====epoch 7
+INFO:root:Epoch 7, Model Loss 7061.4723
+INFO:root:====epoch 8
+INFO:root:Epoch 8, Model Loss 6736.4790
+INFO:root:====epoch 9
+INFO:root:Epoch 9, Model Loss 6431.9113
+INFO:root:====epoch 10
+INFO:root:Epoch 10, Model Loss 6136.9874
