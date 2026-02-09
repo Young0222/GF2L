@@ -6,7 +6,7 @@ Graph Frequency Filtering Learning (GF2L)
 
 This repository contains the implementation of GF2L (Graph Frequency Filtering Learning), as proposed in our paper:
 
-Beyond Contrast and Generation: Graph Frequency Filtering Learning for Self-Supervised Graph Neural Networks [Anonymous authors] Submitted to WWW 2026
+Beyond Contrast and Generation: Graph Frequency Filtering Learning for Self-Supervised Graph Neural Networks
 
 Method Overview
 ----------------
